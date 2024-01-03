@@ -1,0 +1,23 @@
+h1
+{
+	color:black;
+	text-align: center;
+}
+
+body
+{
+	font-family: arial;
+	background-color: beige;
+}
+#JO
+{
+  	width: 800px;
+	margin:0 auto;
+	background-color: beige;
+	text-align: center;
+	align-content: center;
+}
+
+img{
+	border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+h1
+
+
+{
+	background: white;
+}
+
+body
+
+{
+	background: darkgoldenrod;
+}
+
+#centre1
+{
+width: 800px;
+margin:0 auto;
+background-color: white;
+text-align: center;
+align-content: center;
+}

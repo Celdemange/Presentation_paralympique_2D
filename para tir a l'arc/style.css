@@ -1,0 +1,22 @@
+h1{
+	font-size: 65px; color: indianred;
+}
+
+h2{
+
+	font-size: 20px; color: royalblue;
+}
+
+
+body 
+{
+	background-color: skyblue;
+}
+#carte 
+{
+   width: 800px;
+   margin: 0 auto;
+   background-color: white;
+   text-align: center;
+   align-content: center;
+}
